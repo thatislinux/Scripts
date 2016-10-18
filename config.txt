@@ -1,0 +1,2 @@
+B*.*;C:\Arduino\Script\ACCOUNTS\ACCOUNTS_FILE
+C*.*;C:\Arduino\Script\CONTACTS\CONTACTS_FILE
